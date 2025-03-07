@@ -41,3 +41,8 @@ PTPd is licensed under a 2 Clause BSD Open Source License. Please refer to the
 additional information.
 
 PTPd comes with absolutely no warranty.
+
+update
+---
+
+1. add cmake suport (validated on ubuntu 20.04)
